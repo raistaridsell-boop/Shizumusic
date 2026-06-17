@@ -32,7 +32,7 @@ _flask = Flask(__name__)
 
 @_flask.route("/")
 def _home():
-    return "❍ ꜱʜɪᴢᴜᴍᴜꜱɪᴄ ɪꜱ ʀᴜɴɴɪɴɢ ᴍᴀᴅᴇ ʙʏ ʙᴀᴅᴍᴜɴᴅᴀ 💕", 200
+    return "❍ BMWᴍᴜꜱɪᴄ ɪꜱ ʀᴜɴɴɪɴɢ ᴍᴀᴅᴇ ʙʏ KRISH 💕", 200
 
 
 @_flask.route("/health")
@@ -65,7 +65,7 @@ async def _notify_owner(me, assistant_username: str) -> None:
     try:
         await bot.send_message(
             config.LOGGER_ID,
-            f"🎵 ꜱʜɪᴢᴜᴍᴜꜱɪᴄ ꜱᴛᴀʀᴛᴇᴅ💕\n\n"
+            f"🎵 BMW ᴍᴜꜱɪᴄ ꜱᴛᴀʀᴛᴇᴅ💕\n\n"
             f"❍ ʙᴏᴛ : @{me.username}\n"
             f"❍ ᴀꜱꜱɪꜱᴛᴀɴᴛ : @{assistant_username}",
         )
