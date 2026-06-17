@@ -65,7 +65,7 @@ async def start_handler(_, message: Message) -> None:
             "<b>│❍ ᴄʟɪᴄᴋ ʜᴇʟᴘ ғᴏʀ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs.</b>\n"
             "<b>├────────────────────▣</b>\n"
             f"<b>│❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ » "
-            f"<a href='https://t.me/PBXCHATS'>sʜɪᴢᴜ-ᴍᴜsɪᴄ™</a></b>\n"
+            f"<a href='https://t.me/AXYCHAT'>Ᏸⲙꮗ 𐌼᎑𖾗ᷱ̆̍ᛧᥴ™</a></b>\n"
             "<b>╰────────────────────▣</b>"
         )
         kb = InlineKeyboardMarkup([
@@ -81,7 +81,7 @@ async def start_handler(_, message: Message) -> None:
                 InlineKeyboardButton("🫧 ᴏᴡɴᴇʀ 🫧",
                                      url=f"tg://user?id={config.OWNER_ID}"),
                 InlineKeyboardButton("🍡 sᴏᴜʀᴄᴇ 🍡",
-                                     url="https://github.com/raistaridsell-boop/Shizumusic/fork"),
+                                     url="https://t.me/krishnxt"),
             ],
         ])
 
@@ -219,7 +219,7 @@ async def help_handler(_, message: Message) -> None:
             "<b>│📜 ᴄʜᴏᴏsᴇ ᴀ ᴄᴀᴛᴇɢᴏʀʏ :</b>\n"
             "<b>├────────────────────▣</b>\n"
             f"<b>│❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ » "
-            f"<a href='https://t.me/PBXCHATS'>sʜɪᴢᴜ-ᴍᴜsɪᴄ™</a></b>\n"
+            f"<a href='https://t.me/AXYCHAT'>Ᏸⲙꮗ-ᴍᴜsɪᴄ™</a></b>\n"
             "<b>╰────────────────────▣</b>"
         ),
         parse_mode=ParseMode.HTML,
