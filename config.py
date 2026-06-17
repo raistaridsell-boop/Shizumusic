@@ -16,13 +16,13 @@ MONGO_DB_URL    = os.environ["MONGO_DB_URL"]
 OWNER_ID        = int(os.environ["OWNER_ID"])
 
 # ── Optional ──────────────────────────────────────────────────────────────────
-BOT_NAME         = os.getenv("BOT_NAME", "Shizu Music")
-BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/ShizuMusicBot")
-UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/PBX_UPDATE")
-SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/PBXCHATS")
+BOT_NAME         = os.getenv("BOT_NAME", "BMW Music")
+BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/BmwsongBot")
+UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/Axynetwork")
+SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/AxychATS")
 LOGGER_ID        = int(os.getenv("LOGGER_ID", "0"))
-PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/ddzvc0.jpg",)
-SESSION_NAME     = os.getenv("SESSION_NAME", "ShizuMusic")
+PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/35tfwv.jpg",)
+SESSION_NAME     = os.getenv("SESSION_NAME", "bmwMusic")
 PORT             = int(os.getenv("PORT", 10000))
 
 # ── NSFW Moderation API ─────────────────────────────────────────────────────
@@ -37,13 +37,13 @@ NSFW_THRESHOLDS = {
 
 #── Start ───────────────────────────────────────────────────────────────────────
 START_ANIMATIONS = [
-    "https://telegra.ph/file/1a3c152717eb9d2e94dc2.mp4",
-    "https://graph.org/file/ba7699c28dab379b518ca.mp4",
-    "https://graph.org/file/83ebf52e8bbf138620de7.mp4",
-    "https://graph.org/file/82fd67aa56eb1b299e08d.mp4",
-    "https://graph.org/file/318eac81e3d4667edcb77.mp4",
-    "https://graph.org/file/7c1aa59649fbf3ab422da.mp4",
-    "https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
+    "https://files.catbox.moe/35tfwv.jpg",
+    "https://files.catbox.moe/sm18vd.jpg",
+    "https://files.catbox.moe/35tfwv.jpg",
+    "https://files.catbox.moe/sm18vd.jpg",
+    "https://files.catbox.moe/sm18vd.jpg",
+    "https://files.catbox.moe/35tfwv.jpg",
+    "https://files.catbox.moe/sm18vd.jpg",
 ]
 
 # ── Limits ────────────────────────────────────────────────────────────────────
