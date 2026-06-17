@@ -1,8 +1,8 @@
 {
-  "name": "Shizu Music Bot",
-  "description": "Shizu Music — Free Telegram VC Music Bot that runs easily on Render, Railway, Koyeb & Heroku.",
-  "repository": "https://github.com/raistaridsell-boop/Shizumusic",
-  "logo": "https://files.catbox.moe/9kwxtu.png",
+  "name": "BMW Music Bot",
+  "description": "BMW Music — Free Telegram VC Music Bot that runs easily on Render, Railway, Koyeb & Heroku.",
+  "repository": "https://t.me/AxyNetwork",
+  "logo": "https://files.catbox.moe/35tfwv.jpg",
 
   "keywords": [
     "telegram",
