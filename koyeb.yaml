@@ -5,7 +5,7 @@ services:
     type: worker
 
     git:
-      repository: https://github.com/Badmunda05/ShizuMusic
+      repository: https://github.com/raistaridsell-boop/Shizumusic
       branch: main
 
     build:

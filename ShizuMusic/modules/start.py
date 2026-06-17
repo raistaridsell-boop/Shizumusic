@@ -81,7 +81,7 @@ async def start_handler(_, message: Message) -> None:
                 InlineKeyboardButton("🫧 ᴏᴡɴᴇʀ 🫧",
                                      url=f"tg://user?id={config.OWNER_ID}"),
                 InlineKeyboardButton("🍡 sᴏᴜʀᴄᴇ 🍡",
-                                     url="https://github.com/Badmunda05/ShizuMusic/fork"),
+                                     url="https://github.com/raistaridsell-boop/Shizumusic/fork"),
             ],
         ])
 

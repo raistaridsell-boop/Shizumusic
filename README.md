@@ -34,11 +34,11 @@
 
 ## 👤 Developer
 
-<img src="https://avatars.githubusercontent.com/Badmunda05" width="110" style="border-radius:50%;" /><br>
-**PBX** — Developer of ShizuMusic<br>
+<img src="https://avatars.githubusercontent.com/raistaridsell-boop" width="110" style="border-radius:50%;" /><br>
+**raistaridsell-boop** — Developer of Shizumusic<br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-PBX-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PBX_BOT)
-[![GitHub](https://img.shields.io/badge/GitHub-Badmunda05-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badmunda05)
+[![GitHub](https://img.shields.io/badge/GitHub-raistaridsell--boop-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raistaridsell-boop)
 
 </div>
 
@@ -48,7 +48,7 @@
 
 ## 📊 Visitors
 
-<img src="https://profile-counter.glitch.me/Badmunda05/count.svg" />
+<img src="https://profile-counter.glitch.me/raistaridsell-boop/count.svg" />
 
 </div>
 
@@ -73,25 +73,25 @@
 
 ### ☁️ Heroku
 
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Badmunda05/ShizuMusic)
+[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/raistaridsell-boop/Shizumusic)
 
 ---
 
 ### 🟢 Koyeb
 
-[![Deploy on Koyeb](https://img.shields.io/badge/Deploy%20On%20Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=github.com/Badmunda05/ShizuMusic&branch=main&name=shizumusic)
+[![Deploy on Koyeb](https://img.shields.io/badge/Deploy%20On%20Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=github.com/raistaridsell-boop/Shizumusic&branch=main&name=shizumusic)
 
 ---
 
 ### 🟣 Render
 
-[![Deploy on Render](https://img.shields.io/badge/Deploy%20On%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/deploy?repo=https://github.com/Badmunda05/ShizuMusic)
+[![Deploy on Render](https://img.shields.io/badge/Deploy%20On%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/deploy?repo=https://github.com/raistaridsell-boop/Shizumusic)
 
 ---
 
 ### 🔵 Railway
 
-[![Deploy on Railway](https://img.shields.io/badge/Deploy%20On%20Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template?template=https://github.com/Badmunda05/ShizuMusic)
+[![Deploy on Railway](https://img.shields.io/badge/Deploy%20On%20Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template?template=https://github.com/raistaridsell-boop/Shizumusic)
 
 </div>
 
@@ -109,7 +109,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y python3 python3-pip git ffmpeg
 
 # 3. Clone the repo
-git clone https://github.com/Badmunda05/ShizuMusic
+git clone https://github.com/raistaridsell-boop/Shizumusic
 cd ShizuMusic
 
 # 4. Install Python requirements
@@ -189,18 +189,18 @@ screen -r shizu
 ---
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/Badmunda05/ShizuMusic/blob/main/LICENSE) © 2026 ShizuMusic™
+This project is licensed under the [MIT License](https://github.com/raistaridsell-boop/Shizumusic/blob/main/LICENSE) © 2026 ShizuMusic™
 
 ---
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Made with ❤️ by PBX — ShizuMusic™**
+**Made with ❤️ by raistaridsell-boop — Shizumusic™**
 
-[![Repo](https://img.shields.io/badge/GitHub-ShizuMusic-181717?style=for-the-badge&logo=github)](https://github.com/Badmunda05/ShizuMusic)
-[![Stars](https://img.shields.io/github/stars/Badmunda05/ShizuMusic?style=for-the-badge&color=yellow)](https://github.com/Badmunda05/ShizuMusic/stargazers)
-[![Forks](https://img.shields.io/github/forks/Badmunda05/ShizuMusic?style=for-the-badge&color=blue)](https://github.com/Badmunda05/ShizuMusic/network/members)
+[![Repo](https://img.shields.io/badge/GitHub-Shizumusic-181717?style=for-the-badge&logo=github)](https://github.com/raistaridsell-boop/Shizumusic)
+[![Stars](https://img.shields.io/github/stars/raistaridsell-boop/Shizumusic?style=for-the-badge&color=yellow)](https://github.com/raistaridsell-boop/Shizumusic/stargazers)
+[![Forks](https://img.shields.io/github/forks/raistaridsell-boop/Shizumusic?style=for-the-badge&color=blue)](https://github.com/raistaridsell-boop/Shizumusic/network/members)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

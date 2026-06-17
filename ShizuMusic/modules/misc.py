@@ -25,7 +25,7 @@ from ShizuMusic import bot
 from ShizuMusic.modules.block import user_allowed
 
 # ── Source repo URL ────────────────────────────────────────────────────────────
-SOURCE_URL = "https://github.com/Badmunda05/ShizuMusic"
+SOURCE_URL = "https://github.com/raistaridsell-boop/Shizumusic"
 
 
 # ── /repo ──────────────────────────────────────────────────────────────────────
